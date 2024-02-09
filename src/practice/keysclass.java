@@ -15,6 +15,8 @@ public class keysclass {
 	driver.get("https://www.facebook.com");
 	
 	driver.findElement(By.id("email")).sendKeys("mounikakoragoni7@gmail.com",Keys.TAB,"adonai7773",Keys.ENTER);
+		////System.out.println("ygjghj");
+		
 
 	}
 
